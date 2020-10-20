@@ -1,4 +1,4 @@
-![Logo of Repository]
-(https://github.com/kamolliddin/IUT_Machine_Learning/photo_2020-10-20 20.png)
+![Logo](logo.png)
+
 # IUT_Machine_Learning
 Official GitHub repository of IUT Machine Learning community
